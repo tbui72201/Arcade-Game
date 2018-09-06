@@ -18,17 +18,23 @@ The game will be notified when player wins
 
 ## Credited
 [Game Source Files from Udacity](https://github.com/udacity/frontend-nanodegree-arcade-game)
+
 [Udacity Classroom](https://classroom.udacity.com/me)
 
 ## Resources and Reference Websites
-
 [JavaScript Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+
 [JavaScript Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
+
 [Helpful Reading link from JavaScript from Codecademy](https://www.codecademy.com/articles/glossary-javascript)
+
 [JavaScript](http://stackoverflow.com/a/2450976)
 
 Additional resources in Udacity: HTML, CSS and JavaScript Style Guides from Udacity Frontend Nanodegree 
 [JavaScript Testing course](https://www.udacity.com/course/ud549) 
+
 [Udacity Front End Nanodegree JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
+
 [Writing READMEs course](https://www.udacity.com/course/writing-readmes--ud777)
+
 [Object-Oriented JavaScript](https://docs.google.com/document/d/1F9DY2TtWbI29KSEIot1WXRqqao7OCd7OOC2W3oubSmc/pub?embedded=true)
